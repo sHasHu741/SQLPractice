@@ -17,6 +17,12 @@ This repository contains my **SQL practice, exercises, and queries** as I learn 
 * Data Cleaning
 * Data Analysis
 
+## 📊 Practice Database
+
+I am using the **Beginner Perks and Rec Database** to understand SQL concepts and solve queries based on a practical dataset.
+
+The database helps me apply SQL concepts to real-world-style data rather than only practicing isolated syntax examples.
+
 ## 🛠️ Tools Used
 
 * **MySQL**
@@ -24,13 +30,14 @@ This repository contains my **SQL practice, exercises, and queries** as I learn 
 
 ## 🎯 Purpose
 
-The goal of this repository is to build a strong foundation in SQL through **hands-on practice and problem solving**, while developing skills that are relevant to real-world data analytics and Data Analyst roles.
+The goal of this repository is to build a strong foundation in SQL through **hands-on practice and problem solving**, while developing skills relevant to data analytics and Data Analyst roles.
 
 ## 📈 Progress
 
-This repository will be updated regularly as I learn new SQL concepts and work on more challenging queries and datasets.
+This repository will be updated as I learn new concepts, solve more queries, and gradually work with more complex SQL problems.
 
 ---
 
 *Learning SQL one query at a time.*
+
 
